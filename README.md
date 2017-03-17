@@ -1,1 +1,1 @@
-this is a bare repository
+this is a Non bare repository
